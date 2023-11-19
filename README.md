@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ritias.
+- 👀 I’m interested in Golang, Python & C++ learning, 'cause I wanna get a good job and go to good university.
+- 🌱 I’m currently learning Gollang and getting ready for my exams.
+- 📫 How to reach me [...](https://t.me/ntannanarivu) or emailwithoutrealnameaf@gmail.com.
